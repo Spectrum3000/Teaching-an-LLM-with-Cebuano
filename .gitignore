@@ -12,6 +12,8 @@ outputs/*
 !outputs/figures/
 outputs/~$*
 checkpoints/
+!member A/checkpoints/
+!member A/checkpoints/.gitkeep
 .cache/
 *.bin
 *.safetensors
