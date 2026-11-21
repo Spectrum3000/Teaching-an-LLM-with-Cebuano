@@ -1,0 +1,32 @@
+{
+  "Ang mga estudyante sa Cebu": {
+    "greedy": "yan.\n\n\nNagatay ang mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga",
+    "top_k": "ayanas sa mga estudyante sa mga mga alga takotakayin sa mga maganadan sa pungayon sa mga alga mga nga pagadan sa mga takotakayin sa mga pagad",
+    "nucleus": "co.\n\nMang-agadat nga mga mga nga mga nga mga mga kannayan ang mga mga og mga nga mga mga lansak ka kannayan sa nga mga kann",
+    "beam": "yan.\n\n\n\nNga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga m"
+  },
+  "Nagsugod na ang": {
+    "greedy": " mga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga",
+    "top_k": " gani nga rga pamilyon nga pagkon nga iyang nga mga nga nga nga mga nga kapitay nga dang ka sa maggapitay sa diasod nga mga nga kakad",
+    "nucleus": " ig mga siya kungang nga mga dasyod nga nga nga siya kang na pag-yungod sa tayin ni ang sa mga nga kakapang sa pag-yungod sa pag-y",
+    "beam": " mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga"
+  },
+  "Ang kinabuhi sa": {
+    "greedy": " mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga",
+    "top_k": " luang ang giong sa igmanan sa sa kala nga mga ka paktawon ang nga mga nga kong paktawon ang giong kalam-dakkan.\n\nAng kungan sa k",
+    "nucleus": " nga baktakay sa tigtigga nga baktakay sa baktakay tigtigta ang laktigtigta sa nga baktakay tigtigtigta ang laktigt",
+    "beam": " mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga"
+  },
+  "Miadto siya sa merkado": {
+    "greedy": " sa mga kapagadon sa mga kapagadon sa mga kapagadon sa mga kapagadon sa mga kapagadon sa mga kapagadon sa mga kapagadon sa mga k",
+    "top_k": " sa siya konod nga dito dito mga konod konod lakato sa mga giwi ka mga sa lakato ka usa ang mga nga pinadan nga nga pasa sa mga lak",
+    "nucleus": " .\n\n“We are a nation that has experienced a dramatic economic downturn and a steep fall in the value of goods and services.“\n\n\n“We are a nation that has experienced a dramatic economic downturn and a steep fall in the value of goods and services.“",
+    "beam": ".\n\n\n\nNagtong nga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga mga"
+  },
+  "Sa matag adlaw ang mga tawo": {
+    "greedy": " sa mga tawo sa mga tawo sa mga tawo sa mga tawo sa mga tawo sa mga tawo sa mga tawo sa mga tawo sa mga tawo sa mga tawo",
+    "top_k": " ang gindag diya sa mga kata mga diasyay sa mga kaya bawang baw-ay-ay-am.\n\n\nSa pagit nga nga mahog sa mga baw-ay-am.\n\n\nPag",
+    "nucleus": " sa Mga nga tawtagan ang mga mga nga tawtagan.”\n\n\nNga mga nga kala nga kala nga mga nga ka mga pagad kag nga nga magang k",
+    "beam": " nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga"
+  }
+}
